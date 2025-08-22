@@ -3,10 +3,10 @@
 title: Shiming Wu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
+first_name: Shiming
 last_name: Chien
 
 # Pronouns (optional)
