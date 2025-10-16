@@ -1,0 +1,121 @@
+/* === 1. Default Theme (Light Mode) === */
+/* This will be used unless the user's system is set to dark mode. */
+body {
+    background-color: #ffffff !important; /* Plain white background */
+    color: #212529 !important;             /* Dark text for readability */
+}
+
+/* 
+  Make the content sections blend into the body for a seamless, 
+  single-page look. Remove margins and shadows.
+*/
+.page-section {
+    background-color: transparent !important; /* Make sections transparent to show body color */
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-top: 40px;      /* Keep some internal spacing for content */
+    padding-bottom: 40px;
+    border-radius: 0 !important; /* Remove rounded corners for a flat look */
+    
+    /* Remove any box shadows the theme might add */
+    box-shadow: none !important; 
+}
+
+/* --- Optional: Style links for light mode --- */
+a {
+    color: #0056b3;
+}
+
+
+/* === 2. Dark Mode Theme === */
+/* These rules automatically apply if the user's browser or OS is set to Dark Mode. */
+@media (prefers-color-scheme: dark) {
+
+    body {
+        background-color: #121212 !important; /* Dark background */
+        color: #e0e0e0 !important;             /* Light gray text */
+    }
+
+    /* --- Optional: Style links for dark mode --- */
+    a {
+        color: #64b5f6; /* A lighter blue that is easy to read on a dark background */
+    }
+
+}
+
+/* For the 'papers' block specifically, make the content wider */
+#papers .wide-content,
+#progress .wide-content {
+  max-width: 100%; /* Allows the content to use more horizontal space */
+  margin-left: auto;  /* These two margin rules help center the block */
+  margin-right: auto;
+}
+
+/* A general class to justify text */
+.justified-text {
+  text-align: justify;
+}
+
+/*
+  This is the specific fix for the 'papers' section.
+  It targets the container with the 'max-w-prose' class
+  and overrides its restrictive max-width.
+*/
+#papers .max-w-prose,
+#progress .max-w-prose {
+  max-width: 90%; /* You can also use a specific value like 1200px or 90vw */
+}
+
+/*
+  Reduce font size and adjust line height for the papers block paragraph.
+*/
+#papers .justified-text,
+#progress .justified-text {
+  font-size: 1rem; /* 1rem is the default. 0.9rem is 90% of the default size. */
+  line-height: 1.6;  /* Slightly increase line height for better readability at a smaller size. */
+}
+
+/*
+  This adds vertical space ONLY between the paper descriptions
+  inside the #papers markdown block.
+*/
+#papers .wide-content + .wide-content,
+#progress .wide-content + .wide-content {
+  margin-top: 4rem; /* Adjust this value for more or less space */
+}
+
+#teaching .wide-content {
+  max-width: 80%; /* Allows the content to use more horizontal space */
+  margin-left: auto;  /* These two margin rules help center the block */
+  margin-right: auto;
+}
+
+/* A general class to justify text */
+.justified-text {
+  text-align: justify;
+}
+
+/*
+  This is the specific fix for the 'papers' section.
+  It targets the container with the 'max-w-prose' class
+  and overrides its restrictive max-width.
+*/
+#teaching .max-w-prose {
+  max-width: 80%; /* You can also use a specific value like 1200px or 90vw */
+}
+
+/*
+  Reduce font size and adjust line height for the papers block paragraph.
+*/
+#teaching .justified-text {
+  font-size: 1rem; /* 1rem is the default. 0.9rem is 90% of the default size. */
+  line-height: 1.6;  /* Slightly increase line height for better readability at a smaller size. */
+}
+
+/*
+  This adds vertical space ONLY between the paper descriptions
+  inside the #papers markdown block.
+*/
+#teaching .wide-content + .wide-content {
+  margin-top: 4rem; /* Adjust this value for more or less space */
+}
