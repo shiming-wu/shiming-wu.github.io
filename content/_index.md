@@ -61,11 +61,6 @@ sections:
         <p>This paper studies how employer mandates and health insurance affect labor market outcomes and health. I use staggered difference-in-differences research design and variations in the Affordable Care Act to learn how employer mandate affects labor market outcomes. I use doubly robust difference-in-differences in my main specifications to reduce selection bias. Results in the full sample suggest that the employer mandates in the Affordable Care Act increased hourly wages and did not have significant impacts on employment and part-time employment. Employer mandates stimulate a larger increase in employer-sponsored health insurance coverage rates among low-income workers. However, low-income workers are more vulnerable to involuntary part-time employment if employers reduce work hours to circumvent employer mandates. Firms prefer to reduce work hours to circumvent employer mandates instead of firing workers. Using doubly robust estimators and staggered difference-in-differences research design, I find evidence that providing health insurance improves workers' health. The employer mandate may increase productivity by improving workers' health status. Still, it may widen income inequality in the long run because low-income workers are more vulnerable to work hours losses.</p>
         </div>
 
-        <div class="wide-content justified-text">
-        <strong>Mitigating the Trade-off: How Natural Catastrophe Adaptation Can Reconcile Insurer Solvency and Affordability</strong>
-
-        <p>Stringent capital regulation in property insurance markets creates a tension between insurer solvency and affordability. This paper demonstrates that adaptation to natural catastrophes can mitigate this trade-off. I develop and estimate a model of the property insurance market with interdependent loss structures, competition, and capital regulation. My counterfactual analysis shows that adaptation measures, by reducing the correlation of losses, would decrease the market insolvency rate and lower market concentration. Furthermore, I find a net positive impact on social welfare when the costs of insurer insolvency are repurposed to subsidize adaptation. My results indicate that policy should focus on incentivizing adaptation as a key tool for maintaining sustainable insurance markets.</p>
-        </div>
     design:
       view: article-grid
       columns: '1'
@@ -75,6 +70,12 @@ sections:
       title: Work in Progress
       subtitle: ''
       text: |-
+        <div class="wide-content justified-text">
+        <strong>Mitigating the Trade-off: How Natural Catastrophe Adaptation Can Reconcile Insurer Solvency and Affordability</strong>
+
+        <p>Stringent capital regulation in property insurance markets creates a tension between insurer solvency and affordability. This paper demonstrates that adaptation to natural catastrophes can mitigate this trade-off. I develop and estimate a model of the property insurance market with interdependent loss structures, competition, and capital regulation. My counterfactual analysis shows that adaptation measures, by reducing the correlation of losses, would decrease the market insolvency rate and lower market concentration. Furthermore, I find a net positive impact on social welfare when the costs of insurer insolvency are repurposed to subsidize adaptation. My results indicate that policy should focus on incentivizing adaptation as a key tool for maintaining sustainable insurance markets.</p>
+        </div>
+
         <div class="wide-content justified-text">
         <strong>A Reinforcement Learning Approach to Dynamic Capital Regulation in Property Insurance</strong>
 
