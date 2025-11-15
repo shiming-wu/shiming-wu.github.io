@@ -54,8 +54,8 @@ profiles:
 interests:
   - Insurance
   - Empirical Industrial Organization
+  - Financial Economics
   - Environmental Economics
-  - Labor Economics
   - Machine Learning and AI
 
 education:
