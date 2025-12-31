@@ -57,6 +57,13 @@ sections:
         </div>
 
         <div class="wide-content justified-text">
+        <strong><a href="/uploads/A Reinforcement Learning Approach to Dynamic Capital Regulation in Property Insurance_Shiming.pdf" target="_blank" rel="noopener">A Reinforcement Learning Approach to Dynamic Capital Regulation in Property Insurance</a>
+        </strong>
+
+        <p>Regulators in the U.S. property insurance market face a critical challenge: transitioning from static, formula-based capital requirements to dynamic, model-based regimes. While dynamic regulation offers the potential to improve social welfare and market resilience, it suffers from two major barriers: computational intractability under profound uncertainty and a lack of interpretability required for regulatory oversight. In this paper, I propose a novel framework for outcome-based regulatory design. I develop a ``Learn-Verify-Explain" methodology that utilizes Deep Reinforcement Learning to discover optimal dynamic capital strategies. Unlike traditional black-box approaches, my framework integrates Formal Verification to mathematically guarantee compliance with safety constraints and Decision Tree Extraction to distill complex policies into transparent, implementable rules. Empirical results demonstrate that this hybrid approach outperforms traditional static benchmarks, increasing social welfare by approximately 35\% while reducing insolvency rates to zero. Crucially, the distilled policy reveals a risk-sensitive stabilization strategy: the agent learns to prioritize market efficiency through deregulation during stable periods, while imposing immediate corrective tightening upon detecting early signs of distress. This study provides an experiment of ``AI-in-the-loop" financial regulation.</p>
+        </div>
+
+        <div class="wide-content justified-text">
         <strong>The Impacts of Health Insurance Mandates on the Labour Market and Health, Evidence from ACA</strong>
 
         (Draft available on request)
@@ -73,12 +80,6 @@ sections:
       title: Work in Progress
       subtitle: ''
       text: |-
-        <div class="wide-content justified-text">
-        <strong>A Reinforcement Learning Approach to Dynamic Capital Regulation in Property Insurance</strong>
-
-        <p>This paper examines the policy debate on transitioning from static, formula-based capital regulation in the U.S. property insurance market to a dynamic, model-based approach. The goal of this research is to discover an optimal, dynamic capital regulation policy that maximizes social welfare under profound uncertainty. Traditional counterfactual analysis relies on testing a few static policies against a handful of scenarios. To address this, I develop a learning-and-verification methodology that uses Reinforcement Learning to discover sophisticated, dynamic regulatory strategies, formal reasoning to verify compliance with safety constraints, and decision-tree extraction to produce interpretable policy rules. This hybrid approach moves beyond the limitations of manual analysis by autonomously exploring a vast policy space over millions of simulated futures, yielding strategies that are inherently far-sighted and robust. The results suggest that such a model-based regime can enhance the resilience and adaptability of the insurance sector while maintaining regulatory accountability and transparency.</p>
-        </div>
-
         <div class="wide-content justified-text">
         <strong>Mitigating the Trade-off: How Natural Catastrophe Adaptation Can Reconcile Insurer Solvency and Affordability</strong>
 
