@@ -104,6 +104,7 @@ sections:
         ECON 490 Seminar in Applied Economics, TA (UBC)  
         ECON 370 Benefit-Cost Analysis and the Economics of Project Evaluation, TA (UBC)  
         ECON 356 Introduction to International Finance, TA (UBC)  
+        ECON 345 Money and Banking, TA (UBC)  
         ECON 255 Understanding Globalization, teaching TA (UBC)  
         ECON 102 Principles of Macroeconomics, teaching TA (UBC)  
         ECON 101 Principles of Microeconomics, teaching TA (UBC)  
