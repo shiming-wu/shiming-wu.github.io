@@ -71,6 +71,13 @@ sections:
         </div>
 
         <div class="wide-content justified-text">
+        <strong><a href="/uploads/Hedging Against the Silver Tsunami_Shiming.pdf" target="_blank" rel="noopener">Hedging Against the Silver Tsunami: A Health Capital Preservation Triage Framework to Mitigate Long-Term Care Liability and Insurance Risks</a>
+        </strong>
+
+        <p>As populations age, the primary economic threat to healthcare sustainability is the accelerated depreciation of health capital. While traditional triage focuses on short-term liability shielding, musculoskeletal (MSK) triage in elderly populations requires a long-term capital preservation approach. This research proposes three novel frameworks: The Functional Autonomy Hedge (FAH), which utilizes gradient-based symptom volatility; Expected Liability Calibration (ELC), which optimizes for insurance solvency by pricing the marginal cost of diagnostic delay; and the Frailty-Decay Shield (FDS), which incorporates a biological aging parameter. By identifying latent invisible risks near clinical cliffs, I employ actuarial policies to prioritize patients with high-risk profiles. Simulation results (N=5,000) demonstrate that while FAH offers a modest 5.6% liability reduction over standard AI, the optimized ELC framework achieves a 50.2% reduction. The FDS framework, by pricing frailty, provides the superior result with a 52.4% reduction, effectively serving as a mathematically rigorous hedge against the systemic risks of the Silver Tsunami.</p>
+        </div>
+
+        <div class="wide-content justified-text">
         <strong>The Impacts of Health Insurance Mandates on the Labour Market and Health, Evidence from ACA</strong>
 
         (Draft available on request)
