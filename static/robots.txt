@@ -1,17 +1,28 @@
-# Block AI Scrapers
+# 1. BLOCK THE AI SCRAPERS SPECIFICALLY
 User-agent: GPTBot
 Disallow: /
+
 User-agent: CCBot
 Disallow: /
+
 User-agent: Google-Extended
 Disallow: /
+
 User-agent: anthropic-ai
 Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
 User-agent: FacebookBot
 Disallow: /
 
-# Allow Search Engines (Humans)
+User-agent: PerplexityBot
+Disallow: /
+
+# 2. ALLOW REGULAR SEARCH ENGINES (FOR HUMANS)
 User-agent: *
 Allow: /
 
+# 3. YOUR SITE MAP
 Sitemap: https://shiming-wu.github.io/sitemap.xml
