@@ -1,25 +1,28 @@
-# Block OpenAI (ChatGPT)
+# 1. BLOCK THE AI SCRAPERS SPECIFICALLY
 User-agent: GPTBot
 Disallow: /
 
-# Block Common Crawl (Used by many AI models)
 User-agent: CCBot
 Disallow: /
 
-# Block Google's AI Training (Gemini/Bard)
 User-agent: Google-Extended
 Disallow: /
 
-# Block Anthropic (Claude)
 User-agent: anthropic-ai
 Disallow: /
+
 User-agent: Claude-Web
 Disallow: /
 
-# Block Meta (Llama)
 User-agent: FacebookBot
 Disallow: /
 
-# Block Perplexity AI
 User-agent: PerplexityBot
 Disallow: /
+
+# 2. ALLOW REGULAR SEARCH ENGINES (FOR HUMANS)
+User-agent: *
+Allow: /
+
+# 3. YOUR SITE MAP
+Sitemap: https://shiming-wu.github.io/sitemap.xml
