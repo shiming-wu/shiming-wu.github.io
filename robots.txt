@@ -1,0 +1,25 @@
+# Block OpenAI (ChatGPT)
+User-agent: GPTBot
+Disallow: /
+
+# Block Common Crawl (Used by many AI models)
+User-agent: CCBot
+Disallow: /
+
+# Block Google's AI Training (Gemini/Bard)
+User-agent: Google-Extended
+Disallow: /
+
+# Block Anthropic (Claude)
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+
+# Block Meta (Llama)
+User-agent: FacebookBot
+Disallow: /
+
+# Block Perplexity AI
+User-agent: PerplexityBot
+Disallow: /
