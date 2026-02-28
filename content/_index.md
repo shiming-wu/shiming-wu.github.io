@@ -64,6 +64,13 @@ sections:
         </div>
 
         <div class="wide-content justified-text">
+        <strong><a href="/uploads/Adaptation, Insurer Solvency, and Affordability_Shiming.pdf" target="_blank" rel="noopener">Adaptation, Insurer Solvency, and Affordability</a>
+        </strong>
+
+        <p>I analyze the growing tension between insurer solvency and insurance affordability in property markets exposed to climate change. I develop a structural model where risk-averse households choose between purchasing insurance and investing in physical risk adaptation, while competitive insurers face regulatory capital requirements for systemic climate risk. My model demonstrates two findings: (1) high frictional cost of regulatory capital creates a high entry price for insurance that is relatively insensitive to individual adaptation, and (2) below a specific wealth threshold, both physical adaptation and insurance coverage collapse as households lack the liquidity to clear the solvency-loaded premium. Through policy counterfactuals, I find that premium subsidies are counterproductive; by making insurance artificially cheap, they cause households to increase financial coverage while decreasing physical adaptation effort. In contrast, adaptation grants that directly target the liquidity friction are highly effective, allowing households to jump to a higher state of resilience, which improves both household welfare and market-wide financial stability.</p>
+        </div>
+
+        <div class="wide-content justified-text">
         <strong><a href="/uploads/Shiming_Defensive Triage Minimizing Insurance Liability via Bayesian Uncertainty Quantification in Emergency Queues.pdf" target="_blank" rel="noopener">Defensive Triage: Minimizing Insurance Liability via Bayesian Uncertainty Quantification in Emergency Queues</a>
         </strong>
 
@@ -94,12 +101,6 @@ sections:
       title: Work in Progress
       subtitle: ''
       text: |-
-        <div class="wide-content justified-text">
-        <strong>Mitigating the Trade-off: How Natural Catastrophe Adaptation Can Reconcile Insurer Solvency and Affordability</strong>
-
-        <p>Stringent capital regulation in property insurance markets creates a tension between insurer solvency and affordability. This paper demonstrates that adaptation to natural catastrophes can mitigate this trade-off. I develop and estimate a model of the property insurance market with interdependent loss structures, competition, and capital regulation. My counterfactual analysis shows that adaptation measures, by reducing the correlation of losses, would decrease the market insolvency rate and lower market concentration. Furthermore, I find a net positive impact on social welfare when the costs of insurer insolvency are repurposed to subsidize adaptation. My results indicate that policy should focus on incentivizing adaptation as a key tool for maintaining sustainable insurance markets.</p>
-        </div>
-
         <div class="wide-content justified-text">
         <strong>From Monoculture to Market: The Economics of Plant Biodiversity and Consumer Welfare</strong>
 
