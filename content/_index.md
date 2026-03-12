@@ -108,7 +108,11 @@ sections:
       title: Work in Progress
       subtitle: ''
       text: |-
-        
+        <div class="wide-content justified-text">
+        <strong>Financing the AI Energy Transition: Global Competition, Space-Based Solar Power, and Equitable Orbital Resource Allocation</strong>
+
+        <p>The rapid expansion of artificial intelligence relies on uninterrupted, gigawatt-scale computational infrastructure, creating unprecedented demand for global energy. As technology firms and sovereign nations strain existing terrestrial renewable capacity, competition is gradually shifting toward next-generation solutions, specifically Space-Based Solar Power (SBSP). While SBSP presents a promising pathway for sustainable electrification, this transition introduces novel risks regarding orbital congestion and the potential market concentration of extraterrestrial resources by well-capitalized actors. Aligning with the Volt-Age mandate to advance a resilient, decarbonized, and equitable society, this proposal outlines a game-theoretic real options framework to analyze the financial dynamics of global AI energy competition. It evaluates the economic threshold at which terrestrial grid constraints justify SBSP investment and explores sustainable finance solutions—such as Orbital-Sustainability Bonds—to manage spatial risks and ensure that near-Earth resources remain an equitable global public good.</p>
+        </div>
     design:
       view: article-grid
       columns: '1'
