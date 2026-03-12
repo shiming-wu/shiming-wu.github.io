@@ -71,6 +71,13 @@ sections:
         </div>
 
         <div class="wide-content justified-text">
+        <strong><a href="/uploads/From Monoculture to Market.pdf" target="_blank" rel="noopener">From Monoculture to Market: The Economics of Plant Biodiversity, Systemic Risk, and Consumer Welfare</a>
+        </strong>
+
+        <p>Modern industrial agriculture relies on monocultures to maximize economies of scale, yet this genetic homogenization introduces profound systemic risks to global food security. This paper investigates whether market competition naturally corrects this trend or exacerbates it, utilizing a two-stage structural model of endogenous cultivar choice and price competition. By estimating a Random Coefficients Logit model, I quantify the static welfare gains from cultivar variety and the dynamic insurance value of biodiversity against correlated supply shocks. Simulation results demonstrate that consumers derive significant utility from variety, with a transition to pure monoculture resulting in a 73% loss in static consumer surplus. Crucially, I find that market structure determines this vulnerability: a simulated competitive oligopoly sustains four distinct cultivars, whereas a monopoly restricts the market to just two, internalizing cannibalization. Furthermore, I identify a substantial market failure: while monoculture is statically efficient in normal states, it creates unpriced systemic tail risk. Under simulated shocks, the expected social welfare of a diverse biological portfolio is approximately 68% higher than that of a monoculture. These results suggest that profit-maximizing firms structurally under-provide biodiversity, providing a rigorous economic rationale for biodiversity subsidies and stringent antitrust scrutiny in agribusiness. </p>
+        </div>
+
+        <div class="wide-content justified-text">
         <strong><a href="/uploads/Shiming_Defensive Triage Minimizing Insurance Liability via Bayesian Uncertainty Quantification in Emergency Queues.pdf" target="_blank" rel="noopener">Defensive Triage: Minimizing Insurance Liability via Bayesian Uncertainty Quantification in Emergency Queues</a>
         </strong>
 
@@ -101,11 +108,7 @@ sections:
       title: Work in Progress
       subtitle: ''
       text: |-
-        <div class="wide-content justified-text">
-        <strong>From Monoculture to Market: The Economics of Plant Biodiversity and Consumer Welfare</strong>
-
-        <p>This paper investigates the complex relationship between industrial agriculture, plant biodiversity, and economic welfare. While industrial agriculture has been credited with increasing food production, it has also been linked to a significant decline in agrobiodiversity. This research disentangles two opposing economic forces: the homogenizing effect of industrial agriculture's focus on a few high-yield, storable crops, and the potential for market competition to foster product variety. I develop and estimate a structural model of demand and supply for fresh produce, employing a random coefficients logit model (BLP) to capture heterogeneous consumer preferences for a wide range of crop attributes, including variety. On the supply side, I model farmers' and food companies' decisions to offer different cultivars, considering the influence of production costs, market structure, and agricultural policies. Using detailed market-level data, I quantify the welfare effects of changes in plant biodiversity on consumers and producers. Furthermore, I extend the traditional welfare analysis to incorporate the non-market value of agrobiodiversity as a source of resilience to climate shocks. My findings aim to provide a more complete picture of the true social costs and benefits of industrial agriculture and to inform policies that promote a more diverse and sustainable food system. </p>
-        </div>
+        
     design:
       view: article-grid
       columns: '1'
