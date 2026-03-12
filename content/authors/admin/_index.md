@@ -190,8 +190,8 @@ languages:
 
 ## About Me
 
-I am a PhD candidate in economics at the University of British Columbia. I am deeply passionate about advancing economic knowledge through rigorous empirical and theoretical research. My research has focused on three main areas: (i) capital regulation in the property insurance market, (ii) the interaction between insurance and labor markets, and (iii) market competition and its environmental impacts.
+I am a PhD candidate in economics at the University of British Columbia. I am deeply passionate about advancing economic knowledge through rigorous empirical and theoretical research. My research has focused on three main areas: (i) capital regulation in the property insurance market, (ii) the interaction between insurance, labor markets, and health care sector, and (iii) market competition and its environmental impacts.
 
-My job market paper disentangles the roles of capital requirements and credit ratings in constraining insolvency in the U.S. property insurance market, employing structural estimation methods and advanced data science techniques to uncover underlying economic mechanisms. 
+My job market paper disentangles the roles of capital requirements and credit ratings in constraining insolvency in the U.S. property insurance market, employing structural estimation methods, machine learning techniques, and causal inference to uncover underlying economic mechanisms. 
 
 I expect to complete my Ph.D. in Spring 2026 and will be available for interviews during the 2025–2026 academic job market.
