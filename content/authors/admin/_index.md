@@ -55,7 +55,7 @@ interests:
   - Insurance
   - Financial Economics
   - Empirical Industrial Organization
-  - Public Economics (Environment & Health)
+  - Public & Environmental Economics
   - Machine Learning and AI
 
 education:
