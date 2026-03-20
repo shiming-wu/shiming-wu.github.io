@@ -64,6 +64,13 @@ sections:
         </div>
 
         <div class="wide-content justified-text">
+        <strong><a href="/uploads/Financing the Space-Based Energy Transition Endogenous Risk and Sustainable Mechanism Design.pdf" target="_blank" rel="noopener">Financing the Space-Based Energy Transition: Endogenous Risk and Sustainable Mechanism Design</a>
+        </strong>
+
+        <p>The computational requirements of modern data centers are driving a transition toward extraterrestrial energy generation, specifically Space-Based Solar Power. However, prime near-Earth orbits and lunar sectors represent finite common-pool resources subject to endogenous congestion risk based on total spatial occupancy. This paper develops a continuous-time stochastic differential game to analyze the extraction of these resources. I mathematically prove that standard market competition yields a pre-emptive investment race that collapses into a Pareto-inefficient tragedy of the commons. Because extraterrestrial jurisdictions lack a central enforcing sovereign, traditional Pigouvian taxes are unimplementable. Consequently, I design a decentralized mechanism called the orbital-sustainability bond that leverages an asymmetric greenium and consumer preferences to endogenize spatial externalities. I derive the closed-form Hamilton-Jacobi-Bellman equations to prove that an optimally calibrated bond acts as a subgame perfect commitment device, generating a double dividend: it accelerates the initial deployment of clean energy infrastructure while delaying the entry of secondary competitors that trigger Kessler Syndrome risks. The mechanism halts the pre-emptive race, restores Kaldor-Hicks efficiency, and contractually allocates a fraction of the surplus to a global terrestrial equity fund.</p>
+        </div>
+
+        <div class="wide-content justified-text">
         <strong><a href="/uploads/Adaptation, Insurer Solvency, and Affordability_Shiming.pdf" target="_blank" rel="noopener">Adaptation, Insurer Solvency, and Affordability</a>
         </strong>
 
@@ -108,11 +115,7 @@ sections:
       title: Work in Progress
       subtitle: ''
       text: |-
-        <div class="wide-content justified-text">
-        <strong>Financing the AI Energy Transition: Global Competition, Space-Based Solar Power, and Equitable Orbital Resource Allocation</strong>
-
-        <p>The rapid expansion of artificial intelligence relies on uninterrupted, gigawatt-scale computational infrastructure, creating unprecedented demand for global energy. As technology firms and sovereign nations strain existing terrestrial renewable capacity, competition is gradually shifting toward next-generation solutions, specifically Space-Based Solar Power (SBSP). While SBSP presents a promising pathway for sustainable electrification, this transition introduces novel risks regarding orbital congestion and the potential market concentration of extraterrestrial resources by well-capitalized actors. Aligning with the Volt-Age mandate to advance a resilient, decarbonized, and equitable society, this proposal outlines a game-theoretic real options framework to analyze the financial dynamics of global AI energy competition. It evaluates the economic threshold at which terrestrial grid constraints justify SBSP investment and explores sustainable finance solutions—such as Orbital-Sustainability Bonds—to manage spatial risks and ensure that near-Earth resources remain an equitable global public good.</p>
-        </div>
+        
     design:
       view: article-grid
       columns: '1'
