@@ -118,8 +118,6 @@ sections:
         <div class="wide-content justified-text">
         <strong>The Energy Bridge: Optimal Sequencing of Terrestrial Nuclear and Space-Based Power for AI Computation</strong>
 
-        (Draft available on request)
-
         <p>The rapid expansion of artificial intelligence is creating a terminal energy bottleneck that traditional terrestrial grids are ill-equipped to handle. While space-based solar power represents the ultimate solution for high-density compute clusters, the technology remains in its infancy, necessitating a multi-decade transition strategy involving terrestrial solar and Small Modular Reactors (SMRs). This paper develops a structural corporate finance model to analyze the optimal sequencing of these heterogeneous energy investments under conditions of technological uncertainty and capital irreversibility. Using a continuous-time real options framework, I examine the trade-offs between the lower capital intensity of terrestrial solar and the high-baseload reliability of nuclear SMRs as bridges to eventual orbital energy migration. The model characterizes the technological overhang created by long-lived nuclear assets and the resulting stranded asset risk if space-based breakthroughs occur prematurely. I solve the firm's intertemporal optimization problem to derive endogenous investment thresholds and optimal capital structure dynamics. The paper aims to propose a novel class of contingent-claim financing instruments. The resulting framework provides a rigorous valuation architecture for technology firms and infrastructure investors navigating the high-stakes frontier of the AI energy transition.</p>
         </div>
     design:
