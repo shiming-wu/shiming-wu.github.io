@@ -194,4 +194,4 @@ I am a PhD candidate in economics at the University of British Columbia. I am de
 
 My job market paper disentangles the roles of capital requirements and credit ratings in constraining insolvency in the U.S. property insurance market, employing structural estimation methods, machine learning techniques, and causal inference to uncover underlying economic mechanisms. 
 
-I expect to complete my Ph.D. in Spring 2026 and will be available for interviews during the 2025–2026 academic job market.
+I expect to complete my Ph.D. in 2026 and will be available for interviews during the 2025–2026 academic job market.
