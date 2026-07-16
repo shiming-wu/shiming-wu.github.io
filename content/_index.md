@@ -57,6 +57,13 @@ sections:
         </div>
 
         <div class="wide-content justified-text">
+        <strong><a href="/uploads/The Impacts of Employer Health Insurance Mandates on Labour Market and Health Evidence from the ACA_ShimingWu.pdf" target="_blank" rel="noopener">The Impacts of Employer Health Insurance Mandates on Labour Market and Health: Evidence from the ACA</a>
+        </strong>
+
+        <p>This paper examines the effects of the Affordable Care Act's employer mandate on labor market outcomes and health. I exploit variation in the staggered implementation of the employer mandate using a staggered difference-in-differences research design. The main analysis employs a doubly robust difference-in-differences estimator to mitigate selection bias, while honest difference-in-differences methods are used to assess the robustness of key results. The full-sample results indicate that the employer mandate did not significantly increase employer-sponsored health insurance coverage or generate meaningful changes in overall labor market outcomes. However, the effects are heterogeneous across income groups. Among low-income workers, the mandate led to a 9.31 percentage points increase in employer-sponsored health insurance coverage, which was associated with improved self-reported health and greater utilization of health care services. At the same time, low-income workers became more vulnerable to involuntary part-time employment, suggesting that employers were more likely to reduce work hours than to reduce employment in response to the mandate. These findings imply that the employer mandate may improve worker productivity over the long run through better health, but it may also exacerbate income inequality by disproportionately exposing low-income workers to reductions in work hours.</p>
+        </div>
+
+        <div class="wide-content justified-text">
         <strong><a href="/uploads/Contracting the Cosmos Externalities, Capital Markets, and Coasian Bargaining.pdf" target="_blank" rel="noopener">Contracting the Cosmos: Externalities, Capital Markets, and Coasian Bargaining</a>
         </strong>
 
@@ -98,13 +105,7 @@ sections:
         <p>As populations age, the primary economic threat to healthcare sustainability is the accelerated depreciation of health capital. While traditional triage focuses on short-term liability shielding, musculoskeletal (MSK) triage in elderly populations requires a long-term capital preservation approach. This research proposes three novel frameworks: The Functional Autonomy Hedge (FAH), which utilizes gradient-based symptom volatility; Expected Liability Calibration (ELC), which optimizes for insurance solvency by pricing the marginal cost of diagnostic delay; and the Frailty-Decay Shield (FDS), which incorporates a biological aging parameter. By identifying latent invisible risks near clinical cliffs, I employ actuarial policies to prioritize patients with high-risk profiles. Simulation results (N=5,000) demonstrate that while FAH offers a modest 5.6% liability reduction over standard AI, the optimized ELC framework achieves a 50.2% reduction. The FDS framework, by pricing frailty, provides the superior result with a 52.4% reduction, effectively serving as a mathematically rigorous hedge against the systemic risks of the Silver Tsunami.</p>
         </div>
 
-        <div class="wide-content justified-text">
-        <strong>The Impacts of Health Insurance Mandates on the Labour Market and Health, Evidence from ACA</strong>
-
-        (Draft available on request)
-
-        <p>This paper studies how employer mandates and health insurance affect labor market outcomes and health. I use staggered difference-in-differences research design and variations in the Affordable Care Act to learn how employer mandate affects labor market outcomes. I use doubly robust difference-in-differences in my main specifications to reduce selection bias. Results in the full sample suggest that the employer mandates in the Affordable Care Act increased hourly wages and did not have significant impacts on employment and part-time employment. Employer mandates stimulate a larger increase in employer-sponsored health insurance coverage rates among low-income workers. However, low-income workers are more vulnerable to involuntary part-time employment if employers reduce work hours to circumvent employer mandates. Firms prefer to reduce work hours to circumvent employer mandates instead of firing workers. Using doubly robust estimators and staggered difference-in-differences research design, I find evidence that providing health insurance improves workers' health. The employer mandate may increase productivity by improving workers' health status. Still, it may widen income inequality in the long run because low-income workers are more vulnerable to work hours losses.</p>
-        </div>
+        
 
     design:
       view: article-grid
